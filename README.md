@@ -15,7 +15,7 @@ YYYY-MM-DD Title
 
 **Tags:**
 
---
+---
 # Contents
 ### 1991-01-00 How to Time-Stamp a Digital Document
 
@@ -25,7 +25,7 @@ YYYY-MM-DD Title
 
 **Tags:** Time-stamp, Hash, Blockchain
 
---
+---
 ### 1998-00-00 bmoney.txt
 
 **Author(s):** W Dai
@@ -34,7 +34,7 @@ YYYY-MM-DD Title
 
 **Tags:**
 
---
+---
 ### 2008-10-31 Bitcoin: A Peer-to-Peer Electronic Cash System
 
 **Author(s):** Satoshi Nakamoto (pseudonym for individual or group)
@@ -43,7 +43,7 @@ YYYY-MM-DD Title
 
 **Tags:**
 
---
+---
 
 # To Do
 ## Bitcoin Whitepaper References:
