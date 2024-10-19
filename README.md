@@ -7,26 +7,43 @@ YYYY-MM-DD Title
 
 ## Table of Contents Template
 ### YYYY-MM-DD Title
+
 Author(s): 
+
 Notes: 
+
 Tags:
+
 ---
 # Contents
 ### 1991-01-00 How to Time-Stamp a Digital Document
+
 Author(s): Stuart Haber, W. Scott Stornetta
+
 Notes: First description of a cryptographically secured chain of blocks published in the January 1991 Edition of the Journal of Cryptology by the International Association for Cryptologic Research
+
 Tags: Time-stamp, Hash, Blockchain
+
 ---
 ### 1998-00-00 bmoney.txt
+
 Author(s): W Dai
+
 Notes:
+
 Tags:
+
 ---
 ### 2008-10-31 Bitcoin: A Peer-to-Peer Electronic Cash System
+
 Author(s): Satoshi Nakamoto (pseudonym for individual or group)
+
 Notes: 
+
 Tags:
+
 ---
+
 # To Do
 ## Bitcoin Whitepaper References:
 H. Massias, X.S. Avila, and J.-J. Quisquater, "Design of a secure timestamping service with minimal trust requirements," In 20th Symposium on Information Theory in the Benelux, May 1999. 
