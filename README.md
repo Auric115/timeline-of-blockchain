@@ -59,12 +59,12 @@ R.C. Merkle, "Protocols for public key cryptosystems," In Proc. 1980 Symposium o
 
 W. Feller, "An introduction to probability theory and its applications," 1957
 
-## Other
+## Others:
 1997-07-01 Clinton's Framework for Global E-Commerce https://clintonwhitehouse4.archives.gov/WH/New/Commerce/read.html
 
 1998 Nick Szabo's work on ‘bit gold’
 
 2000 Stefan Konst's Sichere Log-Dateien auf Grundlage kryptographisch verketteter Einträge (Secure Log Files Based on Cryptographically Concatenated Entries)
 
-2016 Brookings Institution Roundtable
+2016 Brookings Institution Roundtable Transcripts
 
