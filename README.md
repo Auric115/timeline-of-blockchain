@@ -44,6 +44,15 @@ YYYY-MM-DD Title
 **Tags:**
 
 ---
+### 2023-01-20 Softwar: A Novel Theory on Power Projection and the National Strategic Significance of Bitcoin
+
+**Author(s):** Jason Lowery
+
+**Notes:**
+
+**Tags:**
+
+---
 
 # To Do
 ## Bitcoin Whitepaper References:
