@@ -3,6 +3,7 @@ This is a collection of documents that influenced blockchains, cryptocurrencies,
 
 # Format
 YYYY-MM-DD Title
+
 00 indicates unknown month or day
 
 ## Table of Contents Template
