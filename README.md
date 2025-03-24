@@ -69,6 +69,9 @@ R.C. Merkle, "Protocols for public key cryptosystems," In Proc. 1980 Symposium o
 W. Feller, "An introduction to probability theory and its applications," 1957
 
 ## Others:
+David Chaum's 1982 paper Blind Signatures for Untraceable Payments, which laid the foundation for blockchain technology 26 years before Bitcoin.
+https://sceweb.sce.uhcl.edu/yang/teaching/csci5234WebSecurityFall2011/Chaum-blind-signatures.PDF
+
 1997-07-01 Clinton's Framework for Global E-Commerce https://clintonwhitehouse4.archives.gov/WH/New/Commerce/read.html
 
 1998 Nick Szabo's work on ‘bit gold’
